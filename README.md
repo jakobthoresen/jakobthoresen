@@ -1,19 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2a2a,100:0d1117&height=120&section=header)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=58A6FF&repeat=false&width=435&lines=Jakob+Thoresen)](https://git.io/typing-svg)
+<div align="center">
 
-[![Degree](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=500&pause=9999999&color=94A3B8&center=true&vCenter=true&repeat=false&width=700&height=32&lines=Bachelor´s+in+Information+Science+%E2%80%A2+University+of+Bergen)](https://github.com/jakobthoresen)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=false&width=700&lines=Jakob+Thoresen)](https://git.io/typing-svg)
+
+[![Degree](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=500&pause=9999999&color=94A3B8&center=true&vCenter=true&repeat=false&width=700&height=32&lines=Bachelor%27s+in+Information+Science+%E2%80%A2+University+of+Bergen)](https://github.com/jakobthoresen)
 
 [![Location](https://img.shields.io/badge/Bergen%2C%20Norway-212626?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/jakobthoresen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-212626?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakob-thoresen/)
+
+</div>
 
 ---
 
 ```javascript
 const jakob = {
-  location:  "Bergen, Norway",
-  education: "Bachelor´s in Information Science @ UiB",
-  currently_building:  "Strava Dashboard",
-  contact:   "linkedin.com/in/jakob-thoresen",
+  location:           "Bergen, Norway",
+  education:          "Bachelor's in Information Science @ UiB",
+  currently_building: "Strava Dashboard",
+  contact:            "linkedin.com/in/jakob-thoresen",
 };
 ```
 
